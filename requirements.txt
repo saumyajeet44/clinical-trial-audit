@@ -1,0 +1,5 @@
+streamlit
+supabase
+faker
+numpy
+pandas
